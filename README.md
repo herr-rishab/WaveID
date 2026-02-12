@@ -1,4 +1,4 @@
-# present_sir
+# WaveID
 
 Attendance Marking Project
 

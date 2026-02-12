@@ -7,11 +7,11 @@
 
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:present_sir/main.dart';
+import 'package:present_sir/app.dart';
 
 void main() {
   testWidgets('Home shows mode buttons', (WidgetTester tester) async {
-    await tester.pumpWidget(const PresentSirApp());
+    await tester.pumpWidget(const WaveIdApp());
 
     expect(find.text('Teacher'), findsOneWidget);
     expect(find.text('Student'), findsOneWidget);

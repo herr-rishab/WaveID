@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "559169832467",
+    "project_id": "present-sir-30e45",
+    "storage_bucket": "present-sir-30e45.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559169832467:android:7141f1edb778534a25e1e6",
+        "android_client_info": {
+          "package_name": "com.galacticgeeks.presentsir"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDriboaCgurT6QmR_osWxaJZwGEj65LGcQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

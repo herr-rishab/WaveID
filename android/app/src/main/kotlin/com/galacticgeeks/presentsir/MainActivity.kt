@@ -1,4 +1,4 @@
-package com.galacticgeeks.presentsir.present_sir
+package com.galacticgeeks.presentsir
 
 import io.flutter.embedding.android.FlutterActivity
 
